@@ -1,0 +1,13 @@
+.videoWrapper{
+    display: block;
+    width: 90%;
+    margin:0 auto;
+}
+.controls{
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+progress{
+    width:100%;
+}
